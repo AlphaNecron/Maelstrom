@@ -1,4 +1,4 @@
 # Maelstrom
-Cross-platform screenshot tool.
+A simple uploader and shortener for Android.
 
-### Coming soon next year!
+### Coming soon this year!
